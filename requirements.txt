@@ -4,4 +4,5 @@ langchain-experimental==0.3.4
 langchain-openai==0.3.32
 langchain-text-splitters==0.3.11
 langgraph==0.6.6
-langsmith==0.4.23
+langsmith==0.4.25
+anthropic==0.66.0
