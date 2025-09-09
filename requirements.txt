@@ -11,3 +11,4 @@ pypdf==6.0.0
 gradio-client==1.12.1
 gradio==5.44.1
 pydantic==2.11.7
+requests==2.32.5
